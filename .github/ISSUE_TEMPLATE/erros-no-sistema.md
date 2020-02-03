@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-** Descrição do problema **
+**Descrição do problema**
 Uma descrição clara e concisa de qual é o erro.
 
 **Reproduzir**
@@ -20,12 +20,12 @@ Etapas para reproduzir o comportamento:
 **Comportamento esperado**
 Uma descrição clara e concisa do que você esperava que acontecesse.
 
-** Capturas de tela **
+**Capturas de tela**
 Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 
-** Desktop (preencha as seguintes informações): **
+**Desktop (preencha as seguintes informações):**
   - SO: [por exemplo MacOS/Windows]
   - Navegador [por exemplo cromo, safari]
 
-** Contexto adicional **
+**Contexto adicional**
 Adicione quaisquer outras informações sobre o problema aqui.
