@@ -25,7 +25,7 @@ Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 
 **Desktop (preencha as seguintes informações):**
   - SO: [por exemplo MacOS/Windows]
-  - Navegador [por exemplo cromo, safari]
+  - Navegador [por exemplo chrome, safari]
 
 **Contexto adicional**
 Adicione quaisquer outras informações sobre o problema aqui.
