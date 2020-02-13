@@ -1,6 +1,6 @@
 ---
 name: Solicitação de funcionalidades
-about: Sugira uma ideia para esse projeto
+about: Sugira uma nova funcionalidade para resolver um problema, impressionar clientes, ou melhorar a usabilidade no seu processo de pesquisa ou marcação de decisões.
 title: ''
 labels: enhancement
 assignees: ''
