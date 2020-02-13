@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 **Autor**  
-(Seu nome. Para podermos nos aprofundar por telefone, caso necessário.)
+(Seu nome, se estiver utilizando uma senha compartilhada para acessar o GitHub.)
 
 **Descrição do problema**  
 (Uma descrição clara e concisa de qual é o erro.)
