@@ -12,8 +12,11 @@ assignees: ''
 **O que você está tentando fazer?**  
 (Especifique qual parte do processo está tentando executar.)
 
+**Dê um exemplo concreto**  
+(Descreva uma situação com os termos de busca e palavras que geraram a dúvida.)
+
 **O que não está claro?**  
-(Uma descrição clara da functionalidae que parece ambígua ou confusa.)
+(No seu exemplo, quais opções de ação você tem e porque a escolha é ambígua. Se você não vê opções, o que parece estar faltando?)
 
 **Enquanto não esclarece a dúvida, como você está realizando essa etapa do processo?**  
 (Descreva o que está fazendo para conseguir prosseguir com o trabalho.  
