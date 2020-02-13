@@ -2,7 +2,7 @@
 name: Dúvida
 about: Esclareça dúvidas sobre como deve realizar as marcações, buscas, ou qualquer outra atividade no sistema.
 title: ''
-labels: bug
+labels: question
 assignees: ''
 
 ---
