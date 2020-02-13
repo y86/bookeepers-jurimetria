@@ -13,7 +13,7 @@ assignees: ''
 (Especifique qual parte do processo está tentando executar.)
 
 **Dê um exemplo concreto**  
-(Descreva uma situação com os termos de busca e palavras que geraram a dúvida.)
+(Descreva uma situação com os termos de busca, número de acórdão e palavras que exemplificam a sua dúvida.)
 
 **O que não está claro?**  
 (No seu exemplo, quais opções de ação você tem e porque a escolha é ambígua. Se você não vê opções, o que parece estar faltando?)
