@@ -1,6 +1,6 @@
 ---
 name: Dúvida
-about: Esclareça quaisquer dúvidas sobre como deve realizar as marcações, buscas, ou qualquer outra funcionalidade do sistema.
+about: Esclareça dúvidas sobre como deve realizar as marcações, buscas, ou qualquer outra funcionalidade do sistema.
 title: ''
 labels: bug
 assignees: ''
