@@ -35,7 +35,7 @@ Toda vez que eu executo essas etapas, o problema se manifesta:
 (Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.)
 
 **Captura de tela do inspector**  
-(Caso o problema esteja causando o congelamento da aplicação - cliques não geram efeito algum, ou não aparecem novos resultados ao rolar a tela at;e o final - é possível que um erro tenha travado o sistema. Clique com o botão direito do mouse na tela e selecione "Inspecionar" no Firefox, ou "Inspecionar Elemento" no Chrome e Edge. Em seguida slelecione a aba "Console" no topo da janela que vai se abrir. Se houver algum texto em vermelho no console, seu conteúdo pode nos ajudar no diagnóstico.)
+(Caso o problema esteja causando o congelamento da aplicação - cliques não geram efeito algum, ou não aparecem novos resultados ao rolar a tela até o final - é possível que um erro tenha travado o sistema. Clique com o botão direito do mouse na tela e selecione "Inspecionar" no Firefox, ou "Inspecionar Elemento" no Chrome e Edge. Em seguida slelecione a aba "Console" no topo da janela que vai se abrir. Se houver algum texto em vermelho no console, seu conteúdo pode nos ajudar no diagnóstico.)
 
 **Desktop (preencha as seguintes informações):**  
   - Sistema Operacional: (ex.: MacOS/Windows)  
