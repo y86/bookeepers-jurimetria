@@ -39,7 +39,7 @@ Toda vez que eu executo essas etapas, o problema se manifesta:
 
 **Desktop (preencha as seguintes informações):**  
   - Sistema Operacional: (ex.: MacOS/Windows)  
-  - Navegador (Ex.: Chrome, Safari, Edge, Internet Explorer)  
+  - Navegador (ex.: Chrome, Safari, Edge, Internet Explorer)  
 
 **Contexto adicional**  
 (Adicione quaisquer outras informações sobre o problema aqui, caso julgue necessário.)
