@@ -7,11 +7,20 @@ assignees: ''
 
 ---
 
-**Sua solicitação de recurso está relacionada a um problema? Por favor o descreva.**
-Uma descrição clara e concisa de qual é o problema. Ex. Fico sempre frustrado quando [...]
+**Autor**
+Seu nome. Para podermos nos aprofundar por telefone, caso necessário.
 
-**Descreva a solução que você deseja**
+**Qual problema você deseja resolver com uma nova funcionalidade? Em quais situações esse problema surge?**
+Ex. Quando faço a, b e c. Preciso da informação d, mas dá muito trabalho porque...
+
+**Marque com X a criticidade do problema?**
+( ) Baixa - seria uma funcionalidade bacana. Impressionaria os clientes. A cereja do bolo.
+( ) Média - afeta um pouco a minha produtividade.
+( ) Alta - reduz minha produtividade significativamente.
+( ) Altíssima - me faz cometer erros graves na coleta de informação.
+
+**Qual funcionalidade você acha que resolveria esse problema?**
 Uma descrição clara e concisa do que você deseja que aconteça.
 
 **Contexto adicional**
-Adicione quaisquer outras informações ou captura de tela sobre a solicitação de funcionalidade aqui.
+Adicione quaisquer outras informações ou capturas de tela que você considere necessárias para auxiliar na compreensão do problema ou da funcionalidade sugerida. Se não achar necessário por se tratar de algo óbvio, pode apagar esta sessão.
