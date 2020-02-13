@@ -17,7 +17,7 @@ assignees: ''
 ( ) Baixa - seria uma funcionalidade bacana. Impressionaria os clientes. A cereja do bolo.  
 ( ) Média - afeta um pouco a minha produtividade.  
 ( ) Alta - reduz minha produtividade significativamente.  
-( ) Altíssima - me faz cometer erros graves na coleta de informação.  
+( ) Altíssima - me induz ao erro na coleta de informação.  
 
 **Qual funcionalidade você sugere para resolver esse problema?**  
 (Descreva de forma clara e concisa do que você deseja que aconteça.)
