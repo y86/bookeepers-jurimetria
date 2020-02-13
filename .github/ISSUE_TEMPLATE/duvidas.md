@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 **Autor**  
-(Seu nome. Para podermos nos aprofundar por telefone, caso necessário.)
+(Seu nome, se estiver utilizando uma senha compartilhada para acessar o GitHub.)
 
 **O que você está tentando fazer?**  
 (Especifique qual parte do processo está tentando executar.)
