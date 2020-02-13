@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Autor**  
-(Seu nome. Para podermos nos aprofundar por telefone, caso necessário.)
+(Seu nome, se estiver utilizando uma senha compartilhada para acessar o GitHub.)
 
 **Qual problema você deseja resolver com uma nova funcionalidade? Em quais situações esse problema surge?**  
 (Ex. Quando faço a, b e c. Preciso da informação d, mas dá muito trabalho porque...)
