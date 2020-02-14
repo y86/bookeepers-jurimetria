@@ -15,8 +15,8 @@ assignees: ''
 
 **Marque com X a criticidade do problema?**  
 ( ) Baixa - seria uma funcionalidade bacana. Impressionaria os clientes. A cereja do bolo.  
-( ) Média - afeta um pouco a minha produtividade.  
-( ) Alta - reduz minha produtividade significativamente.  
+( ) Média - afeta um pouco a minha produtividade ou capacidade de executar o processo.  
+( ) Alta - reduz significativamente minha produtividade ou capacidade de executar o processo.  
 ( ) Altíssima - me induz ao erro na coleta de informações.  
 
 **Qual funcionalidade você sugere para resolver esse problema?**  
