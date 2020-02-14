@@ -30,6 +30,7 @@ Toda vez que eu executo essas etapas, o problema se manifesta:
 ( ) Baixa - acontece raramente e não traz grandes impactos.  
 ( ) Média - afeta um pouco a minha produtividade.  
 ( ) Alta - reduz minha produtividade significativamente.  
+( ) Altíssima - me induz ao erro na coleta de informações.  
 
 **Capturas de tela**  
 (Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.)
