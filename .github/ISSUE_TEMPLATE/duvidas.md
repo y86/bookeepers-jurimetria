@@ -19,8 +19,7 @@ assignees: ''
 (No seu exemplo, quais opções de ação você tem e porque a escolha é ambígua. Se você não vê opções, o que parece estar faltando?)
 
 **Enquanto não esclarece a dúvida, como você está realizando essa etapa do processo?**  
-(Descreva o que está fazendo para conseguir prosseguir com o trabalho.  
-Ex.: Se encontro a situação A, seleciono a palavra B e clico no botão C...)
+(Descriva o que você fez no caso concreto acima e quais regras segue ao encontrar casos similares.)
 
 **Capturas de tela**  
 (Se aplicável, adicione capturas de tela para ajudar a explicar a situação.)
