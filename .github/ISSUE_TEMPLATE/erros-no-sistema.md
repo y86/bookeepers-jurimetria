@@ -6,9 +6,6 @@ labels: bug
 assignees: ''
 
 ---
-**Autor**  
-(Seu nome, se estiver utilizando uma senha compartilhada para acessar o GitHub.)
-
 **Descrição do problema**  
 (Uma descrição clara e concisa de qual é o erro.)
 
