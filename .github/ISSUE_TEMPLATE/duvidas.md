@@ -6,9 +6,6 @@ labels: question
 assignees: ''
 
 ---
-**Autor**  
-(Seu nome, se estiver utilizando uma senha compartilhada para acessar o GitHub.)
-
 **O que você está tentando fazer?**  
 (Especifique qual parte do processo está tentando executar.)
 
